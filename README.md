@@ -1,2 +1,2 @@
 # SQL-exercises
-SQL challenges
+SQL challenges I've done to practice.
